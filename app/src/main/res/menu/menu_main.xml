@@ -1,0 +1,7 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:id="@+id/action_add_books"
+          android:title="Aggiungi libri"
+          android:orderInCategory="1"
+          android:showAsAction="never"/>
+</menu>
